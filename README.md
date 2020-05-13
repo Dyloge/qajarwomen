@@ -1,2 +1,2 @@
 # qajarwomen
-interactive network visualization of qajarwomen.com with pyvis
+interactive network visualization of qajarwomen.org with pyvis
